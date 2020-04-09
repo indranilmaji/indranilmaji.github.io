@@ -1,5 +1,0 @@
-name: Indranil Maji, Master's Student
-markdown: kramdown
-
-theme: jekyll-theme-minimal
-permalink: /blog/:year/:month/:day/:title
